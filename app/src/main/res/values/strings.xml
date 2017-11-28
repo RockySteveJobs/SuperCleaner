@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Super Booster</string>
+    <string name="short_cut_name">一键加速</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_memory_clean">手机加速</string>
+    <string name="app_js">手机加速</string>
+    <string name="clear_memory">可清理内存</string>
+    <string name="one_button_cleanup">一键清理</string>
+    <string name="create_icon">"一键加速"快捷图标已创建</string>
+    <string name="scan_success">扫描成功:共扫描 ：</string>
+    <string name="scan_success2">个程序</string>
+    <string name="clean_up">共清理</string>
+    <string name="next_down">再按一次退出应用程序</string>
+    <string name="memory">内存</string>
+    <string name="cache_clean">cache清理</string>
+    <string name="clean_over">清理完成</string>
+    <string name="home">首页</string>
+    <string name="powerful_cleaning">强力清理</string>
+    <string name="isroot">此功能需要root权限</string>
+    <string name="no_clean">无需清理</string>
+    <string name="set_create">创建“一键加速”快捷方式</string>
+    <string name="cpucool">CPU降温</string>
+    <string name="saver_mobile">手机省电</string>
+    <string name="complete_acceleration">加速完成</string>
+    <string name="cpu_status">CPU温度正常</string>
+    <string name="cpu_is_cooling">正在降温...</string>
+    <string name="cpu_cooling_over">完成降温</string>
+    <string name="app_rublish_clean">垃圾清理</string>
+    <string name="app_autostart_manage">自启管理</string>
+    <string name="app_software_manage">软件管理</string>
+    <string name="cleaned">清理垃圾 (<xliff:g id="memory">%1$s</xliff:g>)</string>
+    <string name="empty_cache">缓存为空.</string>
+    <string name="scanning">扫描中…</string>
+    <string name="scanning_m_of_n">扫描中 %1$d/%2$d</string>
+    <string name="software_top_text">已安装%1$s款软件,占有存储空间%2$s</string>
+    <string name="cpu_zt">正在扫描CPU状态...</string>
+    <string name="cpusm1">清理下面</string>
+    <string name="cpusm2">个应用深度降温</string>
+    <string name="cache_cleantext1">您的手机有 </string>
+    <string name="cache_cleantext2"> 的缓存待清理</string>
+    <string name="phone_save_electricity">手机省电</string>
+    <string name="save_electricitying">正在省电...</string>
+    <string name="over_save">省电完成</string>
+    <string name="category_other">其他</string>
+    <string name="category_def">常规设置</string>
+    <string name="settings_basic">基本设置</string>
+    <string name="category_advanced">高级设置</string>
+    <string name="settings_about">联系我们</string>
+    <string name="settings_privacypolicy">隐私政策</string>
+    <string name="settings_termsofuse">使用条款</string>
+    <string name="settings_sendemail">发送邮件</string>
+
+    <string name="settings_version_update">检查更新</string>
+    <string name="settings_grade">给我好评</string>
+    <string name="settings_share">推荐给好友</string>
+    <string name="advertising">广告</string>
+    <string name="phone_clean">手机很干净，无需清理</string>
+    <string name="title_settings">设置</string>
+    <string name="app_information">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;\
+        Super Booster </string>
+    <string name="all_rights_reserved">Copyright © 2017-2020 yunthink.</string>
+
+
+    <!-- Advertising -->
+    <string name="label_advertisingStatus">Advertising Status</string>
+    <string name="status_advertising">Advertising</string>
+    <string name="status_notAdvertising">Not Advertising</string>
+    <string name="status_advDataTooLarge">Not Advertising. Advertisement is larger than 31 bytes.</string>
+    <string name="status_advFeatureUnsupported">Not Advertising. Advertising not supported.</string>
+    <string name="status_advInternalError">Not Advertising. Internal error occurred.</string>
+    <string name="status_advTooManyAdvertisers">Not Advertising. No advertising instance is available.</string>
+
+    <!-- Connection -->
+    <string name="label_connectionStatus">Connection Status</string>
+    <string name="status_devicesConnected">Devices Connected:</string>
+    <string name="status_errorWhenConnecting">An error occurred when connecting to a device. Error Code</string>
+
+    <string name="status_noLeAdv">BLE Advertising function is not supported.</string>
+    <string name="update">Update</string>
+    <string name="stop_advertising">Stop advertising</string>
+    <string name="please_enable_bluetooth">Please enable bluetooth</string>
+    <string name="ble_start_advertising">BLE Advertising started.</string>
+    <string name="cpu_temperature" format="false">CPU temperature: %.1f°C</string>
+    <string name="title_activity_termsofuse">TermsofuseActivity</string>
+    <!-- 隐私政策 -->
+    <string name="privacypolicy_text_title1">WHAT INFORMATION WE COLLECT?</string>
+    <string name="privacypolicy_text_value1a">a. We do not collect personal information. Personal information includes your location information, name, address, email, phone, fax, information stored on your device, and the information used in the applications, services or Web site would identify you or others.</string>
+    <string name="privacypolicy_text_value1b">b. Non-personal information. Non-personal information is data in a form that does not permit direct association with any specific individual, such as your Android ID, CPN model, memory size, your phone IMEI number, phone model, rom, installed application name and package name, phone operator, location, install, uninstall, frequency of use, etc. When a user is interacting with our application, we may collect non-personally identifiable information associated with the user.</string>
+    <string name="privacypolicy_text_title2">HOW WE USE THE INFORMATION WE COLLECT？</string>
+    <string name="privacypolicy_text_value2a">a. Personal information- because we do not collect personal information, we will not use your personal information in any way.</string>
+    <string name="privacypolicy_text_value2b">b. Non-personal information. We may collect and use non-personal information in the following circumstances. To have a better understanding in user\'s behavior, solve problems in products and services, improve our products, services and advertising, we my collect non-personal information such as installed application name and package name, the data of install, frequency of use, country, equipment and channel.</string>
+    <string name="privacypolicy_text_value2c">If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.</string>
+    <string name="privacypolicy_text_title3">PROTECTION OF PERSONAL INFORMATION</string>
+    <string name="privacypolicy_text_value3a">We are concerned about safeguarding the confidentiality of your information. We take precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.</string>
+    <string name="privacypolicy_text_value3b">When you use some products, services, or post your comments, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features.</string>
+    <string name="privacypolicy_text_title4">CHANGES TO THE PRIVACY POLICY</string>
+    <string name="privacypolicy_text_value4">We reserve the right at any time by our sole discretion, changes,modify or otherwise change this policy right. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notices.</string>
+    <string name="privacypolicy_text_title5">Contact us</string>
+    <string name="privacypolicy_text_value5">If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at daipen.456@163.com</string>
+    <string name="privacypolicy_text_title">Privacy Policy</string>
+    <string name="privacypolicy_text_value">Your privacy is important to Super Booster Team and we are committed to protecting your privacy. So we\'ve developed a Privacy Policy. Please take a moment to familiarize yourself with our privacy practices.</string>
+    <!-- 使用条款 -->
+    <string name="termsofuse_text_title1">Terms of Use("Terms")</string>
+    <string name="termsofuse_text_value1">Welcome to use Super Booster("OUR PRODUCT")! your use of OUR PRODUCT is subject to the terms and conditions of these Terms of Use("Terms"). Please read these Terms of Use("Terms","Terms of Use") carefully before using the Super Booster App developed by Super Booster team("We","Our" and "Us"). Your access to and use of the App is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all users and others who use the App. By using the Super Booster App, you agree to be bound by these terms.If you disagree with any part of the terms then you my not use the Super Booster App.</string>
+    <string name="termsofuse_text_title2">Termination</string>
+    <string name="termsofuse_text_value2">We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitation of liability.</string>
+    <string name="termsofuse_text_title3">Links To Other Web Sites</string>
+    <string name="termsofuse_text_value3">Our Service my contain links to third-party web sites or services that are not owned or controlled by us. And we has no control over, and assumes no responsibility for, the content, privacy polices or practices of any third party web site or services.  Your further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of reliance on any such content, goods or services available on or through any such web sites or services. We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</string>
+    <string name="termsofuse_text_title4">Governing Law</string>
+    <string name="termsofuse_text_value4">These Terms shall be governed and construed in accordance with the laws of your country, without regard to its conflict of law provisions. Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.</string>
+    <string name="termsofuse_text_title5">Changes</string>
+    <string name="termsofuse_text_value5">We reserve the right, at our sole discretion, to modify or replace these Terms at anytime. If a revision is material we will try to provide at least 20 day\'s notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.</string>
+    <string name="termsofuse_text_title6">Contact Us</string>
+    <string name="termsofuse_text_value6">If you have any questions about these Terms, please Contact us via Email: daipeng.456@163.com</string>
+    <string name="title_activity_send_email">SendEmailActivity</string>
+</resources>
