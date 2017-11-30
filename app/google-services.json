@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459519104844",
+    "firebase_url": "https://superbooster-70096.firebaseio.com",
+    "project_id": "superbooster-70096",
+    "storage_bucket": "superbooster-70096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459519104844:android:17d54fd91bc7ae55",
+        "android_client_info": {
+          "package_name": "com.yunthink.supercleanmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459519104844-fm6bdth43bcq943u3t0erepvt0jl58hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yunthink.supercleanmaster",
+            "certificate_hash": "5fd33c0ddeaa50beb92000790ab491c5fb8557c2"
+          }
+        },
+        {
+          "client_id": "459519104844-m6vfgr4cd1oundr7m9ft7ne8qhal7sue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC18WFRw9iuTqIPVRZbdnYcjkV6XgzDA5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459519104844-m6vfgr4cd1oundr7m9ft7ne8qhal7sue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

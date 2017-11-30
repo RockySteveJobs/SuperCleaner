@@ -1,0 +1,39 @@
+# maven ignore
+target/
+
+# eclipse ignore
+.settings/
+.classpath
+
+#.gradle ignore
+.gradle/
+.gradle/*
+
+# idea ignore
+.idea/
+.idea/*
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# package ignore (optional)
+# *.jar
+# *.war
+# *.zip
+# *.tar
+# *.tar.gz
+/catalina.base_IS_UNDEFINED
+
+# by mergetool
+*.orig
