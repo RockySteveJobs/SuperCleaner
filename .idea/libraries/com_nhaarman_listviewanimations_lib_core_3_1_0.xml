@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.nhaarman.listviewanimations:lib-core-3.1.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/bea75518eaba2c8e5f9091d0a152b6d2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/bea75518eaba2c8e5f9091d0a152b6d2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/da4ddd70f05c6fa84d950dc287513f12/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lib-core-3.1.0.aar/da4ddd70f05c6fa84d950dc287513f12/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -41,7 +41,7 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    //compile project(':library')
+    compile project(':library')
     compile files('libs/nineoldandroids-2.4.0.jar')
     compile files('libs/umeng-update-v2.5.0.jar')
     compile files('libs/httpmime-4.1.3.jar')

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="AudienceNetwork:@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/7c40ea1e6509218a6b0e8c50e07a14a4/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/7c40ea1e6509218a6b0e8c50e07a14a4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/95cee95525e245222f2e2be9641bbb84/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AudienceNetwork.aar/95cee95525e245222f2e2be9641bbb84/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
